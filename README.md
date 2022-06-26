@@ -3,6 +3,5 @@ Leads Tracker Chrome Extension is a small software programs that improves the br
 The project is made on HTML, CSS and Javascript with the help of Scrimba.
 
 The Extension:
-![image](https://user-images.githubusercontent.com/71933835/175822244-fa0b4801-c3a0-489d-9633-76ea561c0e4e.png)
 
-
+![leads tracker](https://user-images.githubusercontent.com/71933835/175822318-aea1039f-53e6-4a18-976e-dbe70751cac6.png)
