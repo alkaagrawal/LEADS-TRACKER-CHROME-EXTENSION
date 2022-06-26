@@ -1,10 +1,11 @@
-#LEADS-TRACKER-CHROME-EXTENSION
+# LEADS-TRACKER-CHROME-EXTENSION
 
 Leads Tracker Chrome Extension is a small software programs that improves the browsing experience that focuses on keeping the record of your browsing leads by storing the urls of the leads.
 
 The project is made on HTML, CSS and Javascript with the help of Scrimba.
 
-##SCREENSHOTS:
+## SCREENSHOTS:
+
 The interface of the extension:
 
 ![image](https://user-images.githubusercontent.com/71933835/175823333-0c0985c4-2993-4e13-bb52-5a4d77cea248.png)
